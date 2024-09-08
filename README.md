@@ -29,8 +29,7 @@ Handles the rendering of the 3D cube. The vertices and edges of the cube are def
 3. mouseDragged(MouseEvent e)
 Updates the cube’s rotation based on the user’s mouse drag events, providing an interactive 3D experience.
 Interaction
-Rotate the Cube: Click and drag the mouse within the window to rotate the cube along the X and Y axes.
-Notes
+Rotate the Cube: Click and drag the mouse within the window to rotate the cube along the X and Y axes,
 This is a basic implementation and could be further extended to include more complex features, such as rotation along the Z-axis, shading, or lighting for a more realistic 3D effect.
 
 
